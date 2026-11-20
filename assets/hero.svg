@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="212" viewBox="0 0 1100 212" role="img" aria-label="Fabio Horna - Software Engineering, AI Systems and Architecture">
+<defs>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#79c0ff"/></linearGradient>
+</defs>
+<rect width="1100" height="212" rx="6" fill="#0d1117"/>
+<rect x="2" y="2" width="1096" height="208" rx="5" stroke="#30363d" fill="none"/>
+<rect x="36" y="32" width="22" height="3" rx="1" fill="#58a6ff"/>
+<text x="68" y="37" font-family="Arial,sans-serif" fill="#8b949e" font-size="14" letter-spacing="2.0">SOFTWARE ENGINEER / LIMA, PERU</text>
+<text x="36" y="107" font-family="Arial,sans-serif" font-size="61" font-weight="700" fill="#f0f6fc">Fabio Horna</text>
+<text x="38" y="149" font-family="Arial,sans-serif" fill="#a5b1bf" font-size="21">AI Engineering  ·  Software Architecture  ·  Full-Stack Systems</text>
+<path d="M36 180 H1064" stroke="#30363d" stroke-width="1"/>
+<text x="37" y="201" font-family="Arial,sans-serif" fill="#7d8590" font-size="12" letter-spacing="1.3">BUILDING SOFTWARE THAT IS RELIABLE, MAINTAINABLE AND USEFUL</text>
+<g fill="none" stroke="#34516d" stroke-width="2" opacity=".9"><path d="M922 64 L971 39 L1025 75 L1048 41 M922 64 L962 118 L1025 75 M962 118 L1040 132 M971 39 L962 118"/></g>
+<g fill="#0d1117" stroke="#58a6ff" stroke-width="2"><circle cx="922" cy="64" r="6"/><circle cx="971" cy="39" r="5"/><circle cx="1025" cy="75" r="7"/><circle cx="1048" cy="41" r="4"/><circle cx="962" cy="118" r="6"/><circle cx="1040" cy="132" r="5"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="108" viewBox="0 0 1100 108" role="img" aria-label="AI and engineering focus: applied AI, Anthropic Claude tools, NLP pipelines, software architecture">
+<rect width="1100" height="108" rx="6" fill="#0d1117"/><rect x="1" y="1" width="1098" height="106" rx="5" fill="none" stroke="#30363d"/>
+<g font-family="Arial,sans-serif">
+<text x="28" y="31" fill="#8b949e" font-size="14" font-weight="600">ENGINEERING FOCUS</text>
+<path d="M28 49 H1072" stroke="#30363d"/>
+<g font-size="17" fill="#d7dee6"><text x="28" y="81">Applied AI &amp; NLP</text><text x="282" y="81">Claude / Anthropic tools</text><text x="615" y="81">Software architecture</text><text x="920" y="81">Security</text></g>
+<g stroke="#30363d"><path d="M262 60v25M595 60v25M900 60v25"/></g>
+<circle cx="17" cy="26" r="0" fill="#58a6ff"/>
+</g></svg>

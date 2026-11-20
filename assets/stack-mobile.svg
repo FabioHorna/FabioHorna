@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="130" viewBox="0 0 700 130">
+<rect width="700" height="130" rx="6" fill="#0d1117"/><rect x="1" y="1" width="698" height="128" rx="5" stroke="#30363d" fill="none"/>
+<g fill="#c9d1d9" font-family="Arial,sans-serif" font-size="23"><text x="22" y="45">Python</text><text x="195" y="45">TypeScript</text><text x="445" y="45">Next.js</text><text x="22" y="103">React</text><text x="195" y="103">PostgreSQL</text><text x="445" y="103">Docker · Git</text></g>
+<path d="M22 64H678" stroke="#30363d"/>
+</svg>

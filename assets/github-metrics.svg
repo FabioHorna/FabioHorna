@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="235" viewBox="0 0 1100 235" role="img" aria-label="GitHub activity dashboard pending real metrics generation">
+<rect width="1100" height="235" rx="6" fill="#0d1117"/><rect x="1" y="1" width="1098" height="233" rx="5" fill="none" stroke="#30363d"/>
+<text x="32" y="43" fill="#dce4ed" font-size="20" font-weight="700" font-family="Arial,sans-serif">GitHub activity</text>
+<text x="32" y="67" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Real data will appear after the Metrics workflow is enabled.</text>
+<path d="M32 87H1068" stroke="#30363d"/>
+<g fill="none" stroke="#2d3743" stroke-width="2">
+<path d="M54 183 L124 170 L194 187 L264 151 L334 165 L404 126 L474 146 L544 119"/>
+</g>
+<g fill="#233245"><rect x="653" y="124" rx="3" width="30" height="30"/><rect x="692" y="124" rx="3" width="30" height="30"/><rect x="731" y="124" rx="3" width="30" height="30"/><rect x="770" y="124" rx="3" width="30" height="30"/><rect x="809" y="124" rx="3" width="30" height="30"/><rect x="848" y="124" rx="3" width="30" height="30"/><rect x="887" y="124" rx="3" width="30" height="30"/><rect x="926" y="124" rx="3" width="30" height="30"/></g>
+<text x="54" y="216" fill="#647587" font-size="13" font-family="Arial,sans-serif">No activity values shown until verified</text>
+</svg>

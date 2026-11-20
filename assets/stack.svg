@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="72" viewBox="0 0 1100 72" role="img" aria-label="Tech stack: Python, TypeScript, Next.js, React, PostgreSQL, Docker and Git">
+<rect width="1100" height="72" rx="6" fill="#0d1117"/><rect x="1" y="1" width="1098" height="70" rx="5" fill="none" stroke="#30363d"/>
+<g font-family="Arial,sans-serif" font-size="17" fill="#c9d1d9">
+<text x="30" y="44">Python</text><text x="183" y="44">TypeScript</text><text x="376" y="44">Next.js</text><text x="532" y="44">React</text><text x="668" y="44">PostgreSQL</text><text x="861" y="44">Docker</text><text x="993" y="44">Git</text>
+</g>
+<g stroke="#30363d"><path d="M163 22v29M351 22v29M514 22v29M646 22v29M841 22v29M976 22v29"/></g>
+</svg>

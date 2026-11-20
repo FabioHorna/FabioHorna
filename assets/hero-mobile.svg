@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="246" viewBox="0 0 700 246">
+<rect width="700" height="246" rx="6" fill="#0d1117"/><rect x="1" y="1" width="698" height="244" rx="5" stroke="#30363d" fill="none"/>
+<rect x="28" y="28" width="20" height="3" fill="#58a6ff"/><text x="59" y="32" font-family="Arial,sans-serif" font-size="16" fill="#8b949e" letter-spacing="1.6">SOFTWARE ENGINEER</text>
+<text x="28" y="111" font-family="Arial,sans-serif" font-size="57" font-weight="700" fill="#f0f6fc">Fabio Horna</text>
+<text x="29" y="157" font-family="Arial,sans-serif" font-size="23" fill="#a5b1bf">AI Engineering · Software Architecture</text>
+<text x="29" y="187" font-family="Arial,sans-serif" font-size="22" fill="#a5b1bf">Full-Stack Systems</text>
+<path d="M28 207H670" stroke="#30363d"/>
+<text x="28" y="230" font-family="Arial,sans-serif" font-size="16" fill="#7d8590">RELIABLE · MAINTAINABLE · USEFUL</text>
+</svg>
